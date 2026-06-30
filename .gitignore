@@ -1,0 +1,11 @@
+.venv/
+.env/
+cloude.pdf
+rontend (1).zip
+frontend.zip
+backend(1).zip
+backend.zip
+requirements.txt
+frontend/node_modules/
+backend/__pycache__/
+.gitignore
